@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Teste_do_Git
 {
@@ -11,6 +7,7 @@ namespace Teste_do_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Ola mundo!");
+            Console.WriteLine();
         }
     }
 }
